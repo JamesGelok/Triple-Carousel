@@ -1,0 +1,36 @@
+[{
+    "name": "Andy",
+    "imgUrl": "/images/1.jpg",
+    "text": "Andy's Bio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id eros et enim dictum molestie. Quisque vitae elit tincidunt, semper nisi at, volutpat massa. Phasellus quam ante, semper eget nisi ut, congue aliquet libero.",
+    "linkUrl": "http://example.com"
+}, {
+    "name": "Blake",
+    "imgUrl": "/images/2.jpg",
+    "text": "Blake's Bio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id eros et enim dictum molestie. Quisque vitae elit tincidunt, semper nisi at, volutpat massa. Phasellus quam ante, semper eget nisi ut, congue aliquet libero.",
+    "linkUrl": "http://example.com"
+}, {
+    "name": "Carl",
+    "imgUrl": "/images/3.jpg",
+    "text": "Carl's Bio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id eros et enim dictum molestie. Quisque vitae elit tincidunt, semper nisi at, volutpat massa. Phasellus quam ante, semper eget nisi ut, congue aliquet libero.",
+    "linkUrl": "http://example.com"
+}, {
+    "name": "Darl",
+    "imgUrl": "/images/4.jpg",
+    "text": "Darl's Bio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id eros et enim dictum molestie. Quisque vitae elit tincidunt, semper nisi at, volutpat massa. Phasellus quam ante, semper eget nisi ut, congue aliquet libero.",
+    "linkUrl": "http://example.com"
+}, {
+    "name": "Edward",
+    "imgUrl": "/images/5.jpg",
+    "text": "Edward's Bio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id eros et enim dictum molestie. Quisque vitae elit tincidunt, semper nisi at, volutpat massa. Phasellus quam ante, semper eget nisi ut, congue aliquet libero.",
+    "linkUrl": "http://example.com"
+}, {
+    "name": "Frank",
+    "imgUrl": "/images/6.jpg",
+    "text": "Frank's Bio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id eros et enim dictum molestie. Quisque vitae elit tincidunt, semper nisi at, volutpat massa. Phasellus quam ante, semper eget nisi ut, congue aliquet libero.",
+    "linkUrl": "http://example.com"
+}, {
+    "name": "Greg",
+    "imgUrl": "/images/7.jpg",
+    "text": "Greg's Bio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id eros et enim dictum molestie. Quisque vitae elit tincidunt, semper nisi at, volutpat massa. Phasellus quam ante, semper eget nisi ut, congue aliquet libero.",
+    "linkUrl": "http://example.com"
+}]
